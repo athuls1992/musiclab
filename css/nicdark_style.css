@@ -771,7 +771,7 @@ table{ border-collapse: collapse; }
 .nicdark_navigation_4 > ul li > ul.nicdark_sub_menu li > ul.nicdark_sub_menu { margin-left: 150px; top: 0; padding-top: 0; padding-left: 20px; }
 /*responsive*/
 .nicdark_navigation_4_sidebar > ul { list-style: none; margin: 0px; padding: 0px; }
-.nicdark_navigation_4_sidebar > ul > li { display: inline-block; }
+/* .nicdark_navigation_4_sidebar > ul > li { display: inline-block; } */
 .nicdark_navigation_4_sidebar li a { color: #fff; font-size: 16px; font-family: 'Montserrat'; }
 .nicdark_navigation_4_sidebar li > a { padding: 10px 0px; display: inline-block; font-size: 24px; text-transform: lowercase; }
 .nicdark_navigation_4_sidebar > ul li > ul.nicdark_sub_menu { margin: 0px; padding: 0px; list-style: none; }
